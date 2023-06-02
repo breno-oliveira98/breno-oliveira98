@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello Guys 👋
+###### Sejam Bem Vindos ao meu Perfil!
+Iniciante em Programação Full Stack Digital College
 
+**Discord Nick:** breno.yagami#1713
 <!--
 **breno-oliveira98/breno-oliveira98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
