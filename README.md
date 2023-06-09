@@ -1,8 +1,12 @@
 ### Hello Guys 👋
 ###### Sejam Bem Vindos ao meu Perfil!
-Iniciante em Programação Full Stack Digital College
+Iniciante em Programação Full Stack na Digital College
 
 **Discord Nick:** breno.yagami#1713
+
+**My FreeCodeCamp:** https://www.freecodecamp.org/BrenoOliveira
+
+**My Linkedin:** https://www.linkedin.com/in/breno-oliveira-154409171
 <!--
 **breno-oliveira98/breno-oliveira98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
